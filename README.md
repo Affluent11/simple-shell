@@ -32,7 +32,7 @@ simple shell is designed to run in the `Ubuntu 20.04 LTS` linux environment and 
 
 ## Installation
 
-   - Clone this repository: `git clone "https://github.com/YohannesGetu/simple_shell.git"`
+   - Clone this repository: `git clone "https://github.com/Affluent11/simple_shell.git"`
    - Change directories into the repository: `cd simple_shell`
    - Compile: `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
    - Run the shell in interactive mode: `./hsh`
