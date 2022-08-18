@@ -1,6 +1,30 @@
+This is a Software Engineering (group) project of ALX Holberton school. In this project, 
+Joseph Onyeike and Lehlohonolo Pretorius collaborated to simulate the functionalities of a simple Unix shell.
+
+## About
+The shell is the Linux command line interpreter. It provides an interface between the user and the kernel and executes programs called commands. For example, if a user enters `ls` then the shell executes the `ls` command.
+
 ## Simple Shell :volcano:
 
 This simple shell includes the basic functionality of a traditional Unix-like command line user interface. Standard functions and system calls employed in simple shell include: access, execve, exit, fork, free, fstat, getline, malloc, perror, signal, stat, wait, write.
+
+## Table of Contents
+* [About](#About)
+* [File Descriptions](#File-Descriptions)
+* [Requirements](#Requirements)
+* [More Info and Examples](#More-Info-and-Examples)
+	* [Installation](#Installation)
+	* [Examples](#Examples)
+* [Mandatory Tasks](#Mandatory-Tasks)
+* [Advanced Tasks](#Advanced-Tasks)
+* [Bugs](#Bugs)
+* [Authors](Authors)
+* [License](#License)
+
+## File Descriptions
+* [AUTHORS](AUTHORS) - It lists the contributors of this project
+* [man_1_simple_shell](man_1_simple_shell) - The Manual describing usage of the simple_shell
+* [shell.h](shell.h) - The header file used in this project
 
 ## Requirements
 
@@ -40,3 +64,13 @@ drwxrwxr-x  8 vagrant vagrant  4096 Jul 19 22:34 .git
 -rw-rw-r--  1 vagrant vagrant  2111 Jul 16 01:10 strfunc.c
 -rw-rw-r--  1 vagrant vagrant   719 Jul 19 21:46 tokenize.c
 ```
+## Bugs
+No known bugs exists within the program as of this writing.
+
+## Authors
+Joseph Onyeike | [@josephonyeike11@gmail.com](https://https://github.com/Affluent11)
+
+Lehlohonolo Pretorius | [@](https://github.com)
+
+## License
+Given the open source nature of the project, no special licenses or license whatsoever is needed to use, modify, and redistribute the simple_shell program.
