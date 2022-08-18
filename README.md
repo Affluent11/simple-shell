@@ -64,8 +64,6 @@ drwxrwxr-x  8 vagrant vagrant  4096 Jul 19 22:34 .git
 -rw-rw-r--  1 vagrant vagrant  2111 Jul 16 01:10 strfunc.c
 -rw-rw-r--  1 vagrant vagrant   719 Jul 19 21:46 tokenize.c
 ```
-## Bugs
-No known bugs exists within the program as of this writing.
 
 ## Authors
 Joseph Onyeike | [@josephonyeike11@gmail.com](https://https://github.com/Affluent11)
